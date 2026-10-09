@@ -1,0 +1,9 @@
+ACTUALIZAR EN GITHUB
+1. Extrae este ZIP.
+2. Abre tu repositorio y pulsa Add file > Upload files.
+3. Arrastra los ARCHIVOS de esta carpeta, no la carpeta ni el ZIP.
+4. index.html debe quedar en la raíz, junto a README.md.
+5. Pulsa Commit changes. Pages debe usar main y /(root).
+6. Cuando finalice la publicación, actualiza la página con Ctrl+Shift+R.
+
+Incluye tamaño de muestra, pruebas Z/t, interpolación simple/inversa/doble, muestreo y regresión.
